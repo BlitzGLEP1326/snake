@@ -32,5 +32,6 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="Snake.cs" />
+    <Compile Include="Drakon.cs" />
   </ItemGroup>
 </Project>
