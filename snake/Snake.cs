@@ -8,7 +8,7 @@ namespace snake
 		{
 			System.Console.WriteLine ("test data");
 			System.Console.WriteLine ("new data");
-			System.Console.WriteLine ("hello me world");
+			System.Console.WriteLine ("hello my world");
 		}
 	}
 }
