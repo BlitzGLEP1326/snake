@@ -10,6 +10,7 @@ namespace snake
 			System.Console.WriteLine ("I'm fast");
 			System.Console.WriteLine ("Drakon is very hungry");
 			System.Console.WriteLine ("Drakon is super very hungry");
+			System.Console.WriteLine ("Drakon is fastest!!!");
 		}
 	}
 }
