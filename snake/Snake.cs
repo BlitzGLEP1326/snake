@@ -11,6 +11,7 @@ namespace snake
 			System.Console.WriteLine ("hello my world");
 			System.Console.WriteLine ("add new class drakon");
 			System.Console.WriteLine ("drakon talk all about self");
+			System.Console.WriteLine ("drakon talk all about her hungry");
 		}
 	}
 }
