@@ -6,6 +6,7 @@ namespace snake
 	{
 		public Snake ()
 		{
+			System.Console.WriteLine ("test data");
 		}
 	}
 }
