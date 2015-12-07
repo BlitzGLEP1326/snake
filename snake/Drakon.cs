@@ -7,6 +7,7 @@ namespace snake
 		public Drakon ()
 		{
 			System.Console.WriteLine ("I'm a new class Drakon");
+			System.Console.WriteLine ("I'm fast");
 		}
 	}
 }
