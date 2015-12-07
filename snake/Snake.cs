@@ -10,6 +10,7 @@ namespace snake
 			System.Console.WriteLine ("new data");
 			System.Console.WriteLine ("hello my world");
 			System.Console.WriteLine ("add new class drakon");
+			System.Console.WriteLine ("drakon talk all about self");
 		}
 	}
 }
