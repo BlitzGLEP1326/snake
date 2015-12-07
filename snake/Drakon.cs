@@ -8,6 +8,7 @@ namespace snake
 		{
 			System.Console.WriteLine ("I'm a new class Drakon");
 			System.Console.WriteLine ("I'm fast");
+			System.Console.WriteLine ("Drakon is very hungry");
 		}
 	}
 }
